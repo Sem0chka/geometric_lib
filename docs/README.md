@@ -135,3 +135,6 @@ def perimeter(a, b, c):
 |d4d85df| docs: new comments for rectangle.py|
 |7b0cef6| docs new comments for square.py|
 |39b617a| docs: new comments for triangle.py|
+
+# ТЕСТЫ
+Пройденные автотесты: 16/24 (67%)
