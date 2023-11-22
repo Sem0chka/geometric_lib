@@ -137,4 +137,4 @@ def perimeter(a, b, c):
 |39b617a| docs: new comments for triangle.py|
 
 # ТЕСТЫ
-Пройденные автотесты: 16/24 (67%)
+Пройденные автотесты: 8/24 (33%)
