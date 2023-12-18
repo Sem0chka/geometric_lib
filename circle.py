@@ -1,4 +1,4 @@
-from unittest import unittest
+import unittest
 import math
 
 class RectangleTestCase(unittest.TestCase):

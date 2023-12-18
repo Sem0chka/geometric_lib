@@ -1,4 +1,4 @@
-from unittest import unittest
+import unittest
 
 class SquareTestCase(unittest.TestCase):
     def test_square_Area_Zero(self):

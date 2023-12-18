@@ -1,4 +1,4 @@
-from unittest import unittest
+import unittest
 
 class RectangleTestCase(unittest.TestCase):
     def test_rectangle_Area_Zero(self):
