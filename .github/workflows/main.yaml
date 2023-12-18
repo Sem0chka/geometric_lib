@@ -10,13 +10,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Running tests for circle.py
-        run: python -m unittest "cicrle.py"
+        run: python -m unittest cicrle.py
       - name: Running tests for rectangle.py
-        run: python -m unittest "rectangle.py"
+        run: python -m unittest rectangle.py
       - name: Running tests for square.py
-        run: python -m unittest "square.py"
+        run: python -m unittest square.py
       - name: Running tests for triangle.py
-        run: python -m unittest "triangle.py"
+        run: python -m unittest triangle.py
 
   windows_test:
     name: unittests on Windows
@@ -24,10 +24,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Running tests for circle.py
-        run: python -m unittest "cicrle.py"
+        run: python -m unittest cicrle.py
       - name: Running tests for rectangle.py
-        run: python -m unittest "rectangle.py"
+        run: python -m unittest rectangle.py
       - name: Running tests for square.py
-        run: python -m unittest "square.py"
+        run: python -m unittest square.py
       - name: Running tests for triangle.py
-        run: python -m unittest "triangle.py"
+        run: python -m unittest triangle.py
