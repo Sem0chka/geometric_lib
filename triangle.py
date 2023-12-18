@@ -1,4 +1,4 @@
-import unittest
+from unittest import unittest
 
 class TriangleTestCase(unittest.TestCase):
     def test_triangle_Area_Zero(self):
