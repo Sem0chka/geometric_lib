@@ -140,7 +140,7 @@ def perimeter(a, b, c):
 |2ebec9e|test: add test for square.py|
 |c0e1164|test: add test for triangle.py|
 |424a798|documentation: README.md test update|
-
+|51603cf7| test: add workflow for unittests|
 
 # ТЕСТЫ
 Пройденные автотесты: 8/24 (33%)
