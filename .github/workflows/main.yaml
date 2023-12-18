@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Running tests for circle.py
-        run: python -m unittest cicrle.py
+        run: python -m unittest circle.py
       - name: Running tests for rectangle.py
         run: python -m unittest rectangle.py
       - name: Running tests for square.py
